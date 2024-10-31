@@ -9,10 +9,20 @@ Instructions about how to use it:
 
 To run this app:
 
-* Clone the Repository - Open a terminal and run: git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+* Clone the Repository:
+Open a terminal and run: git clone https://github.com/Lolisolera/Keeper-App.git
+cd Keeper-App
 
+* Install Dependencies:
+Ensure you have Node.js installed, then install dependencies with: npm install
 
+* Run the App
+Start the app locally with: npm start
+
+* Use the App
+You can now add or delete tasks in the to-do list as intended!
+
+* Alternatively use the app live here: https://nvv97h.csb.app/
 
 
 
