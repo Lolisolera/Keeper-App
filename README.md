@@ -24,13 +24,15 @@ You can now add or delete tasks in the to-do list as intended!
 
 * Alternatively use the app live here: https://nvv97h.csb.app/
 
+To interact with this App:
+Adding Tasks
+In the text field, type in a task you want to add to your to-do list. Once you've entered it, click the plus (+) icon to add the task to the list.
 
+Deleting Tasks
+To remove a task, click on the bin icon next to it, and it will be removed from your list.
 
+Technologies Used HTML/CSS, JavaScript, Node.js, REACT 
 
-To interact with the app, type in the provided text fields things that you want to do, one at a time. Click on the "pencil" icon to update your items. To delete them, click on the little square next to each of your inputs.
-
-Technologies Used HTML/CSS, JavaScript, Node.js, Express, Axios, EJS, PostgreSQL
-
-NOTE: this app will help you keep track of yoru daily tasks 😄
+NOTE: this app will help you keep track of your daily tasks 😄
 
 Created by Lola Marquez 👽
