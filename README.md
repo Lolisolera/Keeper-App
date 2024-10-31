@@ -7,9 +7,15 @@ My Keeper App showcases the power of REACT by leveraging reusable components to 
 
 Instructions about how to use it:
 
-To run this app, open the terminal and type the command: nodemon index.js.
+To run this app:
 
-Open the app locally in your computer by typing in your browser localhost:3000.
+* Clone the Repository - Open a terminal and run: git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+
+
+
+
 
 To interact with the app, type in the provided text fields things that you want to do, one at a time. Click on the "pencil" icon to update your items. To delete them, click on the little square next to each of your inputs.
 
